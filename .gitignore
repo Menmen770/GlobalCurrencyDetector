@@ -1,0 +1,21 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB compilation files
+*.mex*
+*.p
+
+# MATLAB data files (optional - uncomment if you don't want to upload large data)
+# *.mat
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor backup files
+*~
+*.swp
+*.swo
